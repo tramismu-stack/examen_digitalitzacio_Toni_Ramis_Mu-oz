@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(202, 201, 201);
+    text-align: justify;
+}
+
+
+
+.Fotos{
+    flex-direction: row;
+    align-items: center;
+}
